@@ -1,0 +1,6 @@
+openai-agents
+openai
+pydantic
+python-dotenv
+duckduckgo-search
+gradio
