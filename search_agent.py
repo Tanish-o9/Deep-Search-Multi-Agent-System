@@ -1,6 +1,6 @@
 from agents import Agent, function_tool
 from agents.model_settings import ModelSettings
-from ddgs import DDGS
+from duckduckgo_search import DDGS
 from ollama_model import MODEL
 
 @function_tool
